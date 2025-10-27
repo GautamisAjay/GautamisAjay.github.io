@@ -17,9 +17,16 @@ Forecasted weekly sales for Walmart departments across 3 years using time series
 - 🎯 Analyzed holiday effects (like Thanksgiving) and their inconsistent impact on department performance
 - 🔗 Compared growth vs decline in a visual forecast comparison
 
-## 📈 Screenshots
+## 📈 Graphs
 
-_Add graphs here later using `![Alt text](../images/your-image.png)`_
+![12-week Forecast – Adjusted](adjusted_forecast_comparison.png)
+
+![52-week Forecast – Adjusted](adjusted_forecast_comparison_52weeks.png)
+
+![Raw Forecast Comparison – Dept 92 vs 72](forecast_comparison_92_vs_72.png)
+
+![Thanksgiving Sales Comparison](thanksgiving_comparison.png)
+
 
 ## 🔗 Project Code
 
