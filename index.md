@@ -10,7 +10,7 @@ I use **Python, SQL, Power BI, and dashboards** to extract insights and tell sto
 
 ## 📊 Projects
 
-- [Walmart Sales Forecasting](projects/walmart.md)  
+- [Walmart Sales Forecasting](projects/walmart/walmart.md)  
   _Time series forecasting of weekly sales using Prophet and matplotlib._
 
 ## 🛠 Skills
