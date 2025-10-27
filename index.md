@@ -21,4 +21,4 @@ I use **Python, SQL, Power BI, and dashboards** to extract insights and tell sto
 - **Data visualization** & storytelling
 
 [GitHub](https://github.com/GautamisAjay)  
-[LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
+[LinkedIn]([https://linkedin.com/in/YOUR-LINKEDIN-HERE](https://www.linkedin.com/in/gautam-ajay-668389121))
