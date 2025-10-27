@@ -9,15 +9,19 @@ title: Walmart Sales Forecasting
 
 Forecasted weekly sales for Walmart departments across 3 years using time series modeling.
 
-## 🔍 Key Highlights
+## Key Highlights
 
-- 🧠 Identified **Dept 92** as the fastest-growing using linear trend slopes across all departments
-- 📉 Detected **Dept 72** as the steepest decliner and modeled it with Prophet
-- 📊 Used Prophet to forecast future weekly sales, accounting for trends and seasonality
-- 🎯 Analyzed holiday effects (like Thanksgiving) and their inconsistent impact on department performance
-- 🔗 Compared growth vs decline in a visual forecast comparison
+- Identified the fastest and slowest growing departments, both of which stayed true after controlling for seasonal effects. 
 
-## 📈 Graphs
+- Dept 92 is the fastest-growing, with a 52-week forecast totaling $197.4M and a weekly average of $3.8M
+
+- Dept 72 is the steepest decliner by trend slope, despite a temporary 52-week forecast rise to $110M due to seasonal effects
+
+- Quantified Thanksgiving’s impact on Department 49 across all stores, showing an average sales drop of 2,332 dollars (p < 0.001) compared to non-holiday weeks
+
+- Visually compared departments using seasonally adjusted forecasts to highlight strategic performance differences
+
+## Graphs
 ![Raw Forecast Comparison – Dept 92 vs 72](forecast_comparison_92_vs_72.png)
 
 ![12-week Forecast – Adjusted](adjusted_forecast_comparison.png)
