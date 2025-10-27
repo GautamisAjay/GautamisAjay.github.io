@@ -18,12 +18,11 @@ Forecasted weekly sales for Walmart departments across 3 years using time series
 - 🔗 Compared growth vs decline in a visual forecast comparison
 
 ## 📈 Graphs
+![Raw Forecast Comparison – Dept 92 vs 72](forecast_comparison_92_vs_72.png)
 
 ![12-week Forecast – Adjusted](adjusted_forecast_comparison.png)
 
 ![52-week Forecast – Adjusted](adjusted_forecast_comparison_52weeks.png)
-
-![Raw Forecast Comparison – Dept 92 vs 72](forecast_comparison_92_vs_72.png)
 
 ![Thanksgiving Sales Comparison](thanksgiving_comparison.png)
 
