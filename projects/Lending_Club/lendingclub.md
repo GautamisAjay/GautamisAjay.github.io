@@ -31,7 +31,7 @@ The project demonstrates my ability to perform:
 ## Dashboards
 
 **Interactive Tableau:**  
-[View Dashboard on Tableau Public](https://public.tableau.com/views/LendingClub_CreditRiskDashboard)  
+[View Dashboard on Tableau Public](https://public.tableau.com/app/profile/gautam.ajay/vizzes)  
 
 **Static Visuals:**
 <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 1rem;">
