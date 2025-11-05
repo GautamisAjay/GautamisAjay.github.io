@@ -35,11 +35,12 @@ The project demonstrates my ability to perform:
 
 **Static Visuals:**
 <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 1rem;">
-  <img src="https://raw.githubusercontent.com/GautamisAjay/LendingClub_Credit_Risk_Analysis/main/visuals/default_rate_by_grade.png" alt="Default Rate by Grade">
-  <img src="https://raw.githubusercontent.com/GautamisAjay/LendingClub_Credit_Risk_Analysis/main/visuals/interest_vs_default_scatter.png" alt="Interest vs Default Rate">
-  <img src="https://raw.githubusercontent.com/GautamisAjay/LendingClub_Credit_Risk_Analysis/main/visuals/dti_income_by_grade.png" alt="DTI vs Income by Grade">
-  <img src="https://raw.githubusercontent.com/GautamisAjay/LendingClub_Credit_Risk_Analysis/main/visuals/default_rate_by_state.png" alt="Default Rate by State">
+  <img src="../Lending_Club/Visuals/default_rate_by_grade.png" alt="Default Rate by Grade">
+  <img src="../Lending_Club/Visuals/interest_vs_default_scatter.png" alt="Interest vs Default Rate">
+  <img src="../Lending_Club/Visuals/dti_income_by_grade.png" alt="DTI vs Income by Grade">
+  <img src="../Lending_Club/Visuals/default_rate_by_state.png" alt="Default Rate by State">
 </div>
+
 
 ## Data Source
 [LendingClub Loan Data (Kaggle)](https://www.kaggle.com/wordsforthewise/lending-club)
