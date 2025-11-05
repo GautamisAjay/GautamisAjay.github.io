@@ -17,7 +17,7 @@ I use **Python, SQL, Power BI, and dashboards** to extract insights and tell sto
 
 - **Python** (pandas, seaborn, Prophet)
 - **SQL** (joins, aggregations, subqueries)
-- **Power BI** (interactive dashboards)
+- **Tableau** (interactive dashboards)
 - **Data visualization** & storytelling
 
 [GitHub](https://github.com/GautamisAjay)  
