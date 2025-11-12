@@ -10,11 +10,15 @@ I use **Python, SQL, Tableau, and dashboards** to extract insights and tell stor
 
 ## 📊 Projects
 
-- [Walmart Sales Forecasting](projects/walmart/walmart.md)  
-  _Time series forecasting of weekly sales using Prophet and matplotlib._
+- [E-Commerce Delivery Performance](projects/ecommerce/ecommerce.md)  
+  _Logistics efficiency and late-delivery drivers analyzed with Python, SQL, and Tableau._
+
 - [LendingClub Credit Risk Analysis](projects/Lending_Club/lendingclub.md)  
   _Credit risk evaluation and portfolio segmentation using SQL, Python, and Tableau._
-
+  
+- [Walmart Sales Forecasting](projects/walmart/walmart.md)  
+  _Time series forecasting of weekly sales using Prophet and matplotlib._
+  
 ## 🛠 Skills
 
 - **Python** (pandas, seaborn, Prophet)
