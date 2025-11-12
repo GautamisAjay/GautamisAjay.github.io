@@ -8,7 +8,7 @@ title: Gautam Ajay
 I'm a research psychologist turned data analyst based in Amsterdam.  
 I use **Python, SQL, Tableau, and dashboards** to extract insights and tell stories with data.
 
-## 📊 Projects
+## Projects
 
 - [E-Commerce Delivery Performance](projects/ecommerce/ecommerce.md)  
   _Logistics efficiency and late-delivery drivers analyzed with Python, SQL, and Tableau._
@@ -19,7 +19,7 @@ I use **Python, SQL, Tableau, and dashboards** to extract insights and tell stor
 - [Walmart Sales Forecasting](projects/walmart/walmart.md)  
   _Time series forecasting of weekly sales using Prophet and matplotlib._
   
-## 🛠 Skills
+## Skills
 
 - **Python** (pandas, seaborn, Prophet)
 - **SQL** (joins, aggregations, subqueries)
