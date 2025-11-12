@@ -1,0 +1,6 @@
+Variable,Coefficient,Odds_Ratio,p_value
+Discount_offered,1.8307542652001996,6.239,0.0
+Weight_in_gms,-0.3550620204602307,0.701,0.0
+Customer_care_calls,-0.13330476687069273,0.875,0.0
+Customer_rating,0.03574395634167986,1.036,0.1011
+Cost_of_the_Product,-0.09799488104691546,0.907,0.0

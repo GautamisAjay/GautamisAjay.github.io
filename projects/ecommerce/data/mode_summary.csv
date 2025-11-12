@@ -1,0 +1,4 @@
+Mode_of_Shipment,total_orders,late_deliveries,late_rate_percent
+Flight,1777,1069,60.16
+Road,1760,1035,58.81
+Ship,7462,4459,59.76
