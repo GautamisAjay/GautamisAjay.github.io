@@ -12,6 +12,9 @@ I use **Python, SQL, Tableau, and dashboards** to extract insights and tell stor
 
 - [E-Commerce Delivery Performance](projects/ecommerce/ecommerce.md)  
   _Logistics efficiency and late-delivery drivers analyzed with Python, SQL, and Tableau._
+  
+- [Credit Card Fraud Detection](projects/Fraud_Detection/fraud_detection.md)  
+_Fraud detection using Python/ML (Logistic Regression, Random Forest, XGBoost) and Tableau dashboards analyzing high-risk transaction patterns._
 
 - [LendingClub Credit Risk Analysis](projects/Lending_Club/lendingclub.md)  
   _Credit risk evaluation and portfolio segmentation using SQL, Python, and Tableau._
